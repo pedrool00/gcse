@@ -2,7 +2,7 @@
 A simple Google Custom Search Engine meant for using Google Dorks and return the best results. 
 
 The tool has been coded to return a max of 10 URLs from Google Search. Number can be modified up to 100 (max imposed by Google). 
-Also, note that we get 100 free queries per day.  
+Also, note that the limit of free daily searches is 100.  
 
 This versatile tool developed with the goal of helping in OSINT investigations.
 
